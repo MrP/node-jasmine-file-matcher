@@ -1,0 +1,28 @@
+{
+  "name": "node-jasmine-file-matcher",
+  "version": "0.1.0",
+  "description": "File matcher for Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrP/node-jasmine-file-matcher.git"
+  },
+  "keywords": [
+    "jasmine",
+    "matcher",
+    "file"
+  ],
+  "author": "Victor Rodriguez Gil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrP/node-jasmine-file-matcher/issues"
+  },
+  "homepage": "https://github.com/MrP/node-jasmine-file-matcher#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  },
+  "dependencies": {}
+}
