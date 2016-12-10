@@ -1,6 +1,6 @@
 {
   "name": "node-jasmine-file-matcher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "File matcher for Jasmine",
   "main": "index.js",
   "scripts": {
