@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/MrP/node-jasmine-file-matcher#readme",
   "devDependencies": {
-    "jasmine": "^2.5.3"
+    "jasmine": "^2.6.0"
   },
   "dependencies": {}
 }
